@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiogoGoto
 - 👀 I’m interested in Automation, Robotics, Programming
-- 🌱 I’m first-year engineering Student at University of Calgary
+- 🌱 I’m second-year electrical engineering Student at University of Calgary
 - 📫 How to reach me diogo.goto@gmail.com
 
 
